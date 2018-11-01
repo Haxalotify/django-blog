@@ -1,0 +1,2 @@
+admin=Haxalot
+pass=Seargeant1
